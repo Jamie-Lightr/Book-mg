@@ -1,0 +1,6 @@
+\\Mac\Home\Documents\Visual Studio 2010\Projects\BookManage\BookManage.Model\bin\Debug\BookManage.Model.dll
+\\Mac\Home\Documents\Visual Studio 2010\Projects\BookManage\BookManage.Model\bin\Debug\BookManage.Model.pdb
+\\Mac\Home\Documents\Visual Studio 2010\Projects\BookManage\BookManage.Model\obj\Debug\BookManage.Model.dll
+\\Mac\Home\Documents\Visual Studio 2010\Projects\BookManage\BookManage.Model\obj\Debug\BookManage.Model.pdb
+\\Mac\Home\Documents\Visual Studio 2010\Projects\BookManage\BookManage.Model\obj\Debug\BookManage.Model.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2010\Projects\BookManage\BookManage.Model\obj\Debug\BookManage.Model.csproj.CoreCompileInputs.cache

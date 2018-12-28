@@ -1,0 +1,9 @@
+\\Mac\Home\Documents\Visual Studio 2010\Projects\BookManage\BookManage.DAL\bin\Debug\BookManage.DAL.dll
+\\Mac\Home\Documents\Visual Studio 2010\Projects\BookManage\BookManage.DAL\bin\Debug\BookManage.DAL.pdb
+\\Mac\Home\Documents\Visual Studio 2010\Projects\BookManage\BookManage.DAL\bin\Debug\BookManage.Model.dll
+\\Mac\Home\Documents\Visual Studio 2010\Projects\BookManage\BookManage.DAL\bin\Debug\BookManage.Model.pdb
+\\Mac\Home\Documents\Visual Studio 2010\Projects\BookManage\BookManage.DAL\obj\Debug\BookManage.DAL.dll
+\\Mac\Home\Documents\Visual Studio 2010\Projects\BookManage\BookManage.DAL\obj\Debug\BookManage.DAL.pdb
+\\Mac\Home\Documents\Visual Studio 2010\Projects\BookManage\BookManage.DAL\obj\Debug\BookManage.DAL.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2010\Projects\BookManage\BookManage.DAL\obj\Debug\BookManage.DAL.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Visual Studio 2010\Projects\BookManage\BookManage.DAL\obj\Debug\BookManage.DAL.csproj.CopyComplete
